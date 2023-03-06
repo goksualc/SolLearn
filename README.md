@@ -2,6 +2,12 @@
 
 SolLearn is a decentralized learn-to-earn platform.
 
+1. Run `npm install` at the root of your directory
+2. Run `npm run start` to start the project
+
+## Questions??
+Ask us on Twitter : @0xgks @0xyaren
+
 
 ## DECENTRALIZATION
 Educational videos is stored at blockchain(immutable), NFTs (certificates) are giving by the Solana program.
